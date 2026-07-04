@@ -5,9 +5,7 @@
 https://resume-intelligence-platform.streamlit.app
 
 ## GitHub Repository
-
-https://github.com/harikrupa-ai/ai-resume-intelligence-platform
-
+https://github.com/ramu0102/AI-based-resume-screening-system
 ---
 
 ## Overview
